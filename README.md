@@ -1,0 +1,1 @@
+# This service subscribes to a MQTT topic and sends a Wake-On-Lan signal if a message arrived
